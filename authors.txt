@@ -1,0 +1,9 @@
+9/12/2022
+Jason Kotowski
+jk234
+wrh23
+<<<<<<< HEAD:data.txt
+Empoleon
+=======
+Charizard
+>>>>>>> part-4:authors.txt
